@@ -1,0 +1,10 @@
+
+streamlit
+sentence-transformers
+PyMuPDF
+python-docx
+scikit-learn
+numpy
+pandas
+requests
+python-dotenv
